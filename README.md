@@ -48,9 +48,7 @@ API paths:
 - `/appointments`
 
 ## Deployment
-**Public deployed application URL:** To be added after GCP deployment.
-
-After deployment, add the final public URL to this README and to the GitHub repository **About** description.
+**Public deployed application URL: https://petcare-frontend-373163997556.asia-southeast1.run.app
 
 ## Repository
 https://github.com/Akilach01/PetCare-Frontend
